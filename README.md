@@ -1,6 +1,8 @@
 # jolla_blog_new_comment
 Highlights the new comments on blog.jolla.com
 
+![Screenshot](/../screenshot/screenshot/screenshot.png?raw=true)
+
 # Install
 1. Install browser addon:
   - Firefox: Greasemonkey (https://addons.mozilla.org/hu/firefox/addon/greasemonkey/)
